@@ -1,0 +1,16 @@
+poc_id,VRS,industry,data_sensitivity,lang_fr,expected_qps,latency_ms_budget,budget_eur,hosting,team_nlp_level,infra
+POC001,85,retail,low,true,2.0,2000,500,onprem,high,mixed
+POC002,90,retail,mid,true,5.0,1500,500,cloud,mid,gpu
+POC003,75,retail,low,true,0.2,1500,300,onprem,high,gpu
+POC004,65,industrie,low,true,2.0,1500,200,onprem,low,mixed
+POC005,60,banque,mid,true,2.0,500,800,onprem,mid,mixed
+POC006,85,rh,mid,true,2.0,2000,500,cloud,mid,gpu
+POC007,80,banque,mid,true,0.5,1500,1200,cloud,mid,gpu
+POC008,90,retail,mid,true,2.0,500,1200,cloud,mid,cpu
+POC009,95,rh,high,true,5.0,2000,200,onprem,high,mixed
+POC010,65,rh,high,true,0.2,1200,500,onprem,mid,cpu
+POC011,85,rh,high,true,0.2,1500,300,cloud,low,mixed
+POC012,90,industrie,low,false,1.0,1200,200,onprem,low,cpu
+POC013,85,banque,low,true,1.0,500,300,cloud,high,cpu
+POC014,70,retail,high,true,5.0,1500,1200,cloud,low,mixed
+POC015,65,retail,mid,true,2.0,800,300,cloud,mid,gpu
