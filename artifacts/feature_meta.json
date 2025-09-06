@@ -1,0 +1,34 @@
+{
+  "NUM": [
+    "VRS",
+    "expected_qps",
+    "latency_ms_budget",
+    "budget_eur",
+    "avg_latency_ms",
+    "tok_cost_per_1k",
+    "req_gpu_mem_gb",
+    "max_context"
+  ],
+  "CAT": [
+    "industry",
+    "data_sensitivity",
+    "lang_fr",
+    "hosting",
+    "team_nlp_level",
+    "infra",
+    "category",
+    "open_source",
+    "api_available",
+    "self_host",
+    "fr_quality",
+    "json_mode",
+    "function_calling",
+    "index_type",
+    "complexity_level"
+  ],
+  "algorithm": "sklearn.GradientBoostingRegressor",
+  "quantiles": [
+    0.5,
+    0.9
+  ]
+}
