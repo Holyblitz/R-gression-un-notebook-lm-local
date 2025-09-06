@@ -1,0 +1,20 @@
+weights:
+  kpi: 2.0
+  kpi_target: 2.0
+  data_source: 2.0
+  data_format: 1.0
+  data_volume: 1.0
+  integration_target: 1.5
+  sponsor: 1.5
+  problem: 1.0
+  beneficiary: 1.0
+  constraints_latency: 1.0
+  constraints_cost: 1.0
+  constraints_security: 1.0
+  usage_pattern: 1.0
+  risks: 1.0
+thresholds:
+  red: 60
+  orange: 75
+  green: 100
+alpha_penalty: 0.4
